@@ -1,0 +1,11 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "NPM Lab npm init process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world!'"
+  },
+  "author": "",
+  "license": "ISC"
+}
