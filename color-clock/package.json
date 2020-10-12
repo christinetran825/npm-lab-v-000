@@ -4,7 +4,7 @@
   "description": "NPM Lab npm init process",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'hello world!'"
+    "test": "echo 'Hello World!'"
   },
   "author": "",
   "license": "ISC"
